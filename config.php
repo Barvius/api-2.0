@@ -2,6 +2,6 @@
 define("dbServer", "localhost");
 define("dbUser", "root");
 define("dbPassword", "");
-define("dbName", "");
+define("dbName", "mh");
 
 ?>
